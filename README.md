@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Prakash from Coimbatore..<br><br>- 🔭 I’m Looking  for Job<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I read books and practice coding as hobbies</p>
+<p align="left">I'm Prakash from Coimbatore..<br><br>- 🔭 I’m Looking  for Job<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time, I enjoy reading books and practicing coding.</p>
 
 ###
 
